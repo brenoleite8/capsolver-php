@@ -8,7 +8,7 @@ This package can be installed via composer or manually
 
 ### Composer
 ```
-composer require 0qwertyy/capsolver-php:dev-master
+composer require brenoleite8/capsolver-php:dev-master
 ```
 
 ### Manual
