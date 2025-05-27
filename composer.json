@@ -1,5 +1,5 @@
 {
-    "name": "0qwertyy/capsolver-php",
+    "name": "brenoleite8/capsolver-php",
     "description": "PHP package for easy integration with CapSolver API",
     "keywords": [
         "capsolver",
@@ -26,8 +26,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "0qwertyy",
-            "homepage": "https://github.com/0qwertyy"
+            "name": "brenoleite8",
+            "homepage": "https://github.com/brenoleite8"
         }
     ],
     "require": {
